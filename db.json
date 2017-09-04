@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ "Cats":[{ "type" : "Cat",
+  "name":"Sheraz",
+  "age":2,
+  "image": "https://3.bp.blogspot.com/-fsfjeJYH54Y/WN9FyLRb0GI/AAAAAAAABFM/PkAF3ROINxEP33R3Ny4X1oheljHvykuuwCLcB/s1600/Kedilerde-G%25C3%25B6r%25C3%25BClen-3-Ki%25C5%259Filik-Tipi-beta-kediler.jpg"},
+  {
+  "type" : "Cat",
+  "name":"Sheraz2",
+  "age":3,
+  "image": "http://www.readersdigest.ca/wp-content/uploads/2011/01/4-ways-cheer-up-depressed-cat.jpg"}
+]
 }
